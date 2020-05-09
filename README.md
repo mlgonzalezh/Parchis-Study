@@ -1,4 +1,4 @@
-# Pachis-Study
+# Parchis-Study
 Language: Spanish
 
 Its a Jupiter Notebook that use Python subroutines to study the parchis game with two dices.
